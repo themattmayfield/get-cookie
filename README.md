@@ -5,4 +5,3 @@ The first paragraph on the [Server Actions](https://nextjs.org/docs/app/building
 `Server Actions are asynchronous functions that are executed on the server. They can be used in Server and Client Components to handle form submissions and data mutations in Next.js applications.`
 
 And we know in a server action we can manage cookies. This should be enough to imply that in a client component, since we can get cookies, we can use them to set the header in fetch()
-# get-cookie
